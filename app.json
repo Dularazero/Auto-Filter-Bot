@@ -8,9 +8,9 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/joinchat/U1zAAZzvU8yOvW17",
+    "repository": "https://github.com",
+    "success_url": "https://t.me/joinchat/U1zAAZzvU8yOvW17",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
