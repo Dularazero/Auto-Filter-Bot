@@ -35,7 +35,7 @@ Bot will automatically search for your file and give links to that!
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https:'>Pyrogram 1.0.7</a> 
+⭕️<b>Hosted :</b> <a href='https:'>Amazon</a> 
 
 ⭕️<b>Tutorial Video :</b> <a href='https://youtu.be'>Video Link</a> 
 
